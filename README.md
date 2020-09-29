@@ -1,7 +1,7 @@
 # Make an ATM Class
 
 ```bash
-$ git clone git@git.generalassemb.ly:ga-wdi-exercises/es6-classes-practice.git
+$ git clone git@git.generalassemb.ly:prudential-0921/es6-classes-practice.git
 ```
 
 For this exercise you will be creating an ATM class.
